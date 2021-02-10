@@ -1,0 +1,14 @@
+{
+  "name": "tv4-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tv4": "^1.3.0"
+  }
+}
